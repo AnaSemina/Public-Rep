@@ -1,4 +1,4 @@
-# Project 0. Predict the number.
+# Project 0_1. Predict the number.
 
 ## Contents
 [1. Project description](https://github.com/AnaSemina/SF_DS_student/tree/main/project_0/readme.md#Project-description)
