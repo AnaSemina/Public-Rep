@@ -17,7 +17,7 @@ To write a program that guesses the number in the minimum number of attempts.
 - The algorithm takes into account whether the random number is greater or less than we need.
 - The [baseline](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) template from the screencast presented
 
-**Quality metric**
+**Quality metric:**
 Results are evaluated by the everage number of attempts at 1000 repetitions. A minimum number of attempts is required (less than 20).
 
 **Practice**
