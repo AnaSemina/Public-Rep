@@ -12,24 +12,21 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: число попыток
     """
-    count = 0
-    predict = np.random.randint(1, 101)
+    count = 0 
+    x = 1     #назначаем исходные границы промежутка, в котором будем искать число
+    y = 101
+    predict = np.random.randint(x, y) #выбираем случайное число из промежутка
     
     while number != predict:
 
-      count += 1
-
-      if len(str(number-predict)) == 2: #подбираем сначала десяток
-        if number > predict:
-          predict += 10
-        elif number < predict:
-          predict -= 10
-          
-      else:                         #подбираем единицы
-        if number > predict:
-          predict += 1
-        elif number < predict:
-          predict -= 1
+      count += 1  
+      
+      if number > predict:
+        x = predict + 1       #сокращаем снизу промежуток поиска числа, то есть ищем среди тех, что больше
+        predict = np.random.randint(x, y)
+      elif number < predict: 
+        y = predict           #сокращаем сверху промежуток поиска числа, то есть ищем среди тех, что меньше
+        predict = np.random.randint(x, y)
 
     return(count)   
 
