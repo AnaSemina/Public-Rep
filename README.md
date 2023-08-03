@@ -7,4 +7,4 @@ From the [Skill Factory Data Science course](https://apps.skillfactory.ru/learni
 *[Project 0. Game: Predict the number](https://github.com/AnaSemina/SF_DS_student/tree/main/project_0)
 
 
-
+*[Project 2. Head Hunter job analysis](https://github.com/AnaSemina/SF_DS_student/blob/main/PROJECT_2/Project_2.ipynb)
