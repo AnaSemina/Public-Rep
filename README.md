@@ -10,4 +10,4 @@ From the [Skill Factory Data Science course](https://apps.skillfactory.ru/learni
 *[Project 2. Head Hunter job analysis](https://github.com/AnaSemina/SF_DS_student/blob/main/PROJECT_2/Project_2.ipynb)
 
 
-*[Project 3. Head Hunter job analysis](https://github.com/AnaSemina/SF_DS_student/blob/main/PROJECT_3/asemina-hotels-predict.ipynb)
+*[Project 3. Hotels predict](https://github.com/AnaSemina/SF_DS_student/blob/main/PROJECT_3/asemina-hotels-predict.ipynb)
