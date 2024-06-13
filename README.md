@@ -1,7 +1,5 @@
 # Public projects
 
-From the [Skill Factory Data Science course](https://apps.skillfactory.ru/learning/course).
-
 ## Projects
 
 *[Project 0. Game: Predict the number](https://github.com/AnaSemina/Public-projects/tree/main/project_0)
