@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like ML very much and<br> i'm currently working on Telegram Bot for marketplace managers.<br>  <br>
+I like ML very much and<br> currently working on Telegram Bot for marketplace managers.<br>  <br>
 
 
 ## 🌐 Socials:
